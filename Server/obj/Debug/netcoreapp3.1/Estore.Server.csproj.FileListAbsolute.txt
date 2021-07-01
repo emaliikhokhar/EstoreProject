@@ -1,0 +1,1226 @@
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Client.StaticWebAssets.xml
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.pdb
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.pdb
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.pdb
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.xml
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.deps.json
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.exe
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.pdb
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.dev.json
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.json
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.pdb
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.pdb
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.pdb
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.xml
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.pdb
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.xml
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.pdb
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.pdb
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.pdb
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.xml
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.pdb
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.pdb
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.pdb
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.pdb
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.xml
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.pdb
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.xml
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.pdb
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.xml
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.pdb
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.pdb
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.pdb
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.xml
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.pdb
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.xml
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.pdb
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.xml
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.pdb
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.pdb
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.pdb
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.xml
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.pdb
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.xml
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.pdb
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.xml
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Hosting.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Console.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.ObjectPool.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Options.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Primitives.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.pdb
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.xml
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Mdb.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\System.Diagnostics.EventLog.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\System.IO.Pipelines.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\x64\aspnetcorev2_inprocess.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\x86\aspnetcorev2_inprocess.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Server.StaticWebAssets.xml
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Server.exe
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Server.deps.json
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Server.runtimeconfig.json
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Server.runtimeconfig.dev.json
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Server.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Server.pdb
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Server.Views.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Server.Views.pdb
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Client.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Shared.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Client.pdb
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Shared.pdb
+C:\Users\usama riasat\source\repos\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.csprojAssemblyReference.cache
+C:\Users\usama riasat\source\repos\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.AssemblyInfoInputs.cache
+C:\Users\usama riasat\source\repos\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.AssemblyInfo.cs
+C:\Users\usama riasat\source\repos\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.csproj.CoreCompileInputs.cache
+C:\Users\usama riasat\source\repos\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\usama riasat\source\repos\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.RazorAssemblyInfo.cache
+C:\Users\usama riasat\source\repos\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.RazorAssemblyInfo.cs
+C:\Users\usama riasat\source\repos\Estore\Server\obj\Debug\netcoreapp3.1\staticwebassets\Estore.Server.StaticWebAssets.Manifest.cache
+C:\Users\usama riasat\source\repos\Estore\Server\obj\Debug\netcoreapp3.1\staticwebassets\Estore.Server.StaticWebAssets.xml
+C:\Users\usama riasat\source\repos\Estore\Server\obj\Debug\netcoreapp3.1\scopedcss\bundle\Estore.Server.styles.css
+C:\Users\usama riasat\source\repos\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.TagHelpers.input.cache
+C:\Users\usama riasat\source\repos\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.TagHelpers.output.cache
+C:\Users\usama riasat\source\repos\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.RazorCoreGenerate.cache
+C:\Users\usama riasat\source\repos\Estore\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\usama riasat\source\repos\Estore\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\usama riasat\source\repos\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.RazorTargetAssemblyInfo.cache
+C:\Users\usama riasat\source\repos\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.RazorTargetAssemblyInfo.cs
+C:\Users\usama riasat\source\repos\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.Views.pdb
+C:\Users\usama riasat\source\repos\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.csproj.CopyComplete
+C:\Users\usama riasat\source\repos\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.dll
+C:\Users\usama riasat\source\repos\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.pdb
+C:\Users\usama riasat\source\repos\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.genruntimeconfig.cache
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\AWSSDK.dll
+C:\Users\usama riasat\source\repos\Estore\Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.pdb
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.pdb
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.pdb
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.xml
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.deps.json
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.exe
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.pdb
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.dev.json
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.json
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.pdb
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.pdb
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.pdb
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.xml
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.pdb
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.xml
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.pdb
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.pdb
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.pdb
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.xml
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.pdb
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.pdb
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.pdb
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.pdb
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.xml
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.pdb
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.xml
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.pdb
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.xml
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.pdb
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.pdb
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.pdb
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.xml
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.pdb
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.xml
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.pdb
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.xml
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.pdb
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.pdb
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.pdb
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.xml
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.pdb
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.xml
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.pdb
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.xml
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Hosting.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Console.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.ObjectPool.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Options.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Primitives.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.pdb
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.xml
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Mdb.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\System.Diagnostics.EventLog.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\System.IO.Pipelines.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\x64\aspnetcorev2_inprocess.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\x86\aspnetcorev2_inprocess.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Server.exe
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Server.deps.json
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Server.runtimeconfig.json
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Server.runtimeconfig.dev.json
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Server.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Server.pdb
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Server.Views.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Server.Views.pdb
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Shared.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Shared.pdb
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.csprojAssemblyReference.cache
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.AssemblyInfoInputs.cache
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.AssemblyInfo.cs
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.csproj.CoreCompileInputs.cache
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.RazorAssemblyInfo.cache
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.RazorAssemblyInfo.cs
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\obj\Debug\netcoreapp3.1\staticwebassets\Estore.Server.StaticWebAssets.Manifest.cache
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\obj\Debug\netcoreapp3.1\staticwebassets\Estore.Server.StaticWebAssets.xml
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\obj\Debug\netcoreapp3.1\scopedcss\bundle\Estore.Server.styles.css
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.TagHelpers.input.cache
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.TagHelpers.output.cache
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.RazorCoreGenerate.cache
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.RazorTargetAssemblyInfo.cache
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.RazorTargetAssemblyInfo.cs
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.Views.pdb
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.csproj.CopyComplete
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.pdb
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.genruntimeconfig.cache
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Client.StaticWebAssets.xml
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Server.StaticWebAssets.xml
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Client.dll
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Client.pdb
+C:\Users\usama riasat\Documents\6th Semester\EAD\Semester Project\Git Clone\Estore\Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\appsettings.json
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.resources.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.resources.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.resources.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.resources.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.resources.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.resources.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.resources.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.pdb
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.xml
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.pdb
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.xml
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.pdb
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.xml
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.deps.json
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.exe
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.pdb
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.dev.json
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.json
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.pdb
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.xml
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.pdb
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.pdb
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.xml
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.pdb
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.xml
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.pdb
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.xml
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.pdb
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.pdb
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.xml
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.pdb
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.pdb
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.xml
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.pdb
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.xml
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.pdb
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.xml
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.pdb
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.xml
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.pdb
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.xml
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.pdb
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.pdb
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.xml
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.pdb
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.xml
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.pdb
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.xml
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.pdb
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.xml
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.pdb
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.pdb
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.pdb
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.xml
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.pdb
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.xml
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.pdb
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.xml
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.xml
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Binder.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Json.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.DependencyInjection.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Composite.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Physical.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Hosting.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Configuration.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Console.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Debug.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.EventLog.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.EventSource.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.ObjectPool.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Options.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Primitives.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.pdb
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.xml
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Mdb.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Newtonsoft.Json.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.resources.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.resources.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\System.Diagnostics.EventLog.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\System.IO.Pipelines.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.resources.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\x64\aspnetcorev2_inprocess.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\x86\aspnetcorev2_inprocess.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Client.StaticWebAssets.xml
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Server.StaticWebAssets.xml
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Server.exe
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Server.deps.json
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Server.runtimeconfig.json
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Server.runtimeconfig.dev.json
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Server.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Server.pdb
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Server.Views.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Server.Views.pdb
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.WebAssembly.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Client.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Shared.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Client.pdb
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Shared.pdb
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.csproj.AssemblyReference.cache
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.AssemblyInfoInputs.cache
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.AssemblyInfo.cs
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.csproj.CoreCompileInputs.cache
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.MvcApplicationPartsAssemblyInfo.cache
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.RazorAssemblyInfo.cache
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.RazorAssemblyInfo.cs
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\obj\Debug\netcoreapp3.1\staticwebassets\Estore.Server.StaticWebAssets.Manifest.cache
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\obj\Debug\netcoreapp3.1\staticwebassets\Estore.Server.StaticWebAssets.xml
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\obj\Debug\netcoreapp3.1\scopedcss\bundle\Estore.Server.styles.css
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.TagHelpers.input.cache
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.TagHelpers.output.cache
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.RazorCoreGenerate.cache
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.RazorTargetAssemblyInfo.cache
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.RazorTargetAssemblyInfo.cs
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.Views.pdb
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.csproj.CopyComplete
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.dll
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.pdb
+E:\BIT\Semester-VI\EAD\Project\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.genruntimeconfig.cache
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\appsettings.json
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.xml
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.xml
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.xml
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.deps.json
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.exe
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.dev.json
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.json
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.xml
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.xml
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.xml
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.xml
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.xml
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.xml
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.xml
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.xml
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.xml
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.xml
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.xml
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.xml
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.xml
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.xml
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.xml
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.xml
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.xml
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.xml
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Binder.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Json.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.DependencyInjection.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Composite.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Physical.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Hosting.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Configuration.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Console.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Debug.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.EventLog.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.EventSource.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.ObjectPool.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Options.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Primitives.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.xml
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Mdb.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Newtonsoft.Json.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\System.Diagnostics.EventLog.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\System.IO.Pipelines.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\x64\aspnetcorev2_inprocess.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\x86\aspnetcorev2_inprocess.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Client.StaticWebAssets.xml
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Server.StaticWebAssets.xml
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Server.exe
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Server.deps.json
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Server.runtimeconfig.json
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Server.runtimeconfig.dev.json
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Server.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Server.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Server.Views.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Server.Views.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.WebAssembly.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Client.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Shared.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Client.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\bin\Debug\netcoreapp3.1\Estore.Shared.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.AssemblyInfoInputs.cache
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.AssemblyInfo.cs
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.csproj.CoreCompileInputs.cache
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.MvcApplicationPartsAssemblyInfo.cache
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.RazorAssemblyInfo.cache
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.RazorAssemblyInfo.cs
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\obj\Debug\netcoreapp3.1\staticwebassets\Estore.Server.StaticWebAssets.Manifest.cache
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\obj\Debug\netcoreapp3.1\staticwebassets\Estore.Server.StaticWebAssets.xml
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\obj\Debug\netcoreapp3.1\scopedcss\bundle\Estore.Server.styles.css
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.TagHelpers.input.cache
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.TagHelpers.output.cache
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.RazorCoreGenerate.cache
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.RazorTargetAssemblyInfo.cache
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.RazorTargetAssemblyInfo.cs
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.Views.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.csproj.CopyComplete
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.dll
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.genruntimeconfig.cache
+E:\BIT\Semester-VI\EAD\Semester Project\Estore\Server\obj\Debug\netcoreapp3.1\Estore.Server.csproj.AssemblyReference.cache
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Estore.Client.StaticWebAssets.xml
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\appsettings.json
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.xml
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.xml
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.xml
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.deps.json
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.exe
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.dev.json
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.json
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.xml
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.xml
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.xml
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.xml
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.xml
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.xml
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.xml
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.xml
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.xml
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.xml
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.xml
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.xml
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.xml
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.xml
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.xml
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.xml
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.xml
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.xml
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Binder.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Json.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.DependencyInjection.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Composite.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Physical.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Hosting.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Configuration.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Console.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Debug.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.EventLog.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.EventSource.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.ObjectPool.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Options.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Primitives.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.xml
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Mdb.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Newtonsoft.Json.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\System.Diagnostics.EventLog.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\System.IO.Pipelines.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\x64\aspnetcorev2_inprocess.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\x86\aspnetcorev2_inprocess.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Estore.Server.StaticWebAssets.xml
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Estore.Server.exe
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Estore.Server.deps.json
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Estore.Server.runtimeconfig.json
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Estore.Server.runtimeconfig.dev.json
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Estore.Server.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Estore.Server.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Estore.Server.Views.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Estore.Server.Views.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.WebAssembly.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Estore.Client.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Estore.Shared.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Estore.Client.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\bin\Debug\netcoreapp3.1\Estore.Shared.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\obj\Debug\netcoreapp3.1\Estore.Server.csproj.AssemblyReference.cache
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\obj\Debug\netcoreapp3.1\Estore.Server.AssemblyInfoInputs.cache
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\obj\Debug\netcoreapp3.1\Estore.Server.AssemblyInfo.cs
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\obj\Debug\netcoreapp3.1\Estore.Server.csproj.CoreCompileInputs.cache
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\obj\Debug\netcoreapp3.1\Estore.Server.MvcApplicationPartsAssemblyInfo.cache
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\obj\Debug\netcoreapp3.1\Estore.Server.RazorAssemblyInfo.cache
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\obj\Debug\netcoreapp3.1\Estore.Server.RazorAssemblyInfo.cs
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\obj\Debug\netcoreapp3.1\staticwebassets\Estore.Server.StaticWebAssets.Manifest.cache
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\obj\Debug\netcoreapp3.1\staticwebassets\Estore.Server.StaticWebAssets.xml
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\obj\Debug\netcoreapp3.1\scopedcss\bundle\Estore.Server.styles.css
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\obj\Debug\netcoreapp3.1\Estore.Server.TagHelpers.input.cache
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\obj\Debug\netcoreapp3.1\Estore.Server.TagHelpers.output.cache
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\obj\Debug\netcoreapp3.1\Estore.Server.RazorCoreGenerate.cache
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\obj\Debug\netcoreapp3.1\Estore.Server.RazorTargetAssemblyInfo.cache
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\obj\Debug\netcoreapp3.1\Estore.Server.RazorTargetAssemblyInfo.cs
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\obj\Debug\netcoreapp3.1\Estore.Server.Views.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\obj\Debug\netcoreapp3.1\Estore.Server.csproj.CopyComplete
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\obj\Debug\netcoreapp3.1\Estore.Server.dll
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\obj\Debug\netcoreapp3.1\Estore.Server.pdb
+E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Server\obj\Debug\netcoreapp3.1\Estore.Server.genruntimeconfig.cache

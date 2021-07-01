@@ -1,0 +1,51 @@
+﻿<h3>All Products</h3>
+
+<div class="card-group">
+    <div class="card col" style="width: 18rem;">
+        <img src="/images/football.png" class="card-img-top" alt="...">
+        <div class="card-body">
+            <h5 class="card-title">@Title</h5>
+            <h6>Category: @Category</h6>
+            <p class="card-text">Price: @Price PKR</p>
+          
+        </div>
+    </div>
+    <div class="card col" style="width: 18rem;">
+        <img src="/images/LED.png" class="card-img-top" alt="...">
+        <div class="card-body">
+            <h5 class="card-title">@Title</h5>
+            <h6>Category: @Category</h6>
+            <p class="card-text">Price: @Price PKR</p>
+          
+        </div>
+    </div>
+    <div class="card col" style="width: 18rem;">
+        <img src="/images/AC.png" class="card-img-top" alt="...">
+        <div class="card-body">
+            <h5 class="card-title">@Title</h5>
+            <h6>Category: @Category</h6>
+            <p class="card-text">Price: @Price PKR</p>
+          
+        </div>
+    </div>
+    <div class="card col" style="width: 18rem;">
+        <img src="/images/Mobile.png" class="card-img-top" alt="...">
+        <div class="card-body">
+            <h5 class="card-title">@Title</h5>
+            <h6>Category: @Category</h6>
+            <p class="card-text">Price: @Price PKR</p>
+          
+        </div>
+    </div>
+</div>
+
+@code {
+    [Parameter]
+    public string Title { set; get; }
+
+    [Parameter]
+    public string Category { set; get; }
+
+    [Parameter]
+    public int Price { set; get; }
+}

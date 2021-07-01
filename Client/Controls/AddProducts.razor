@@ -1,0 +1,70 @@
+﻿@using Estore.Server.Models
+@inject ProductServices svc
+
+<div class="container">
+    <div class="card card-signin my-5 w-75">
+        <div class="card-body  align-items-center w-75">
+            <h2 class="card-title text-center mb-1">Add Product</h2>
+            <br />
+            <EditForm Model="@product" class="form-signin w-75" OnSubmit="addProduct">
+                <div class="form-label-group">
+                    <label for="productName">Product Name</label>
+                    <input type="text" id="productName" @bind-value="product.Name" class="form-control" placeholder="Product Name" required autofocus>
+                </div>
+                <br />
+                <div class="form-label-group">
+                    <label for="category">Category</label>
+                    <input type="text" id="productCategory" @bind-value="product.Category" class="form-control" placeholder="Category" required autofocus>
+                </div>
+                <br />
+                <div class="form-label-group mb-1">
+                    <label for="price">Price</label>
+                    <input type="text" id="inputPassword" @bind-value="product.Price" class="form-control" placeholder="Price" required>
+                </div>
+                <br />
+                <div class="form-label-group mb-1">
+                    <label for="discount">Discount</label>
+                    <input type="number" id="discount" @bind-value="product.Discount" class="form-control" placeholder="Discount" required>
+                </div>
+                <br />
+                <div class="form-label-group mb-1">
+                    <label for="image">image</label>
+                    <input type="text" id="image" @bind-value="product.ImageAddress" class="form-control" placeholder="Image" required>
+                </div>
+                <br />
+                <div class="form-label-group mb-1">
+                    <label for="OwnerID">OwnerID</label>
+                    <input type="text" id="OwnerID" @bind-value="product.OwnerId" class="form-control" placeholder="OwnerID" required>
+                </div>
+                <br />
+                <div class="form-label-group mb-1">
+                    <label for="ratings">ratings</label>
+                    <input type="number" id="ratings" @bind-value="product.Ratings" class="form-control" placeholder="Ratings" required>
+                </div>
+                <br />
+                @*<div class="form-label-group">
+            <label for="inputEmail">Address</label>
+            <input type="file" id="address" @bind-value="seller.Address" class="form-control" placeholder="Address" required autofocus>
+        </div>
+        <br />*@
+                <button class="btn btn-lg btn-primary mb-1 btn-block text-uppercase" type="submit">Add</button>
+
+            </EditForm>
+        </div>
+    </div>
+</div>
+
+@code {
+   
+    Product product = new Product();
+
+   
+        private async Task addProduct()
+        {
+            var status = await svc.AddProduct(product);
+            Console.WriteLine($"here is from service {status}");
+        }
+
+
+   
+}
