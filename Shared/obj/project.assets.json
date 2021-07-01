@@ -7351,11 +7351,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\Shared\\Estore.Shared.csproj",
+      "projectUniqueName": "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\EstoreProject\\Shared\\Estore.Shared.csproj",
       "projectName": "Estore.Shared",
-      "projectPath": "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\Shared\\Estore.Shared.csproj",
+      "projectPath": "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\EstoreProject\\Shared\\Estore.Shared.csproj",
       "packagesPath": "C:\\Users\\HP USER\\.nuget\\packages\\",
-      "outputPath": "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\Shared\\obj\\",
+      "outputPath": "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\EstoreProject\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP USER\\AppData\\Roaming\\NuGet\\NuGet.Config",

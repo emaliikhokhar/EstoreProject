@@ -41,5 +41,14 @@ namespace Estore.Client.Services
 
             return stringContent;
         }
+
+        public async Task<Product> GetProductDetail(int id)
+        {
+
+            Product json = await this.httpClient.GetFromJsonAsync<Product>($"{baseUrl}api/products/getProductsByID/{id}");
+            //return JsonConvert.DeserializeObject<ProductData>(json);
+            Console.WriteLine(json);
+            return json;
+        }
     }
 }

@@ -1,5 +1,5 @@
-@page "/ProductPage"
-@*@page "/ProductPage/{id:int}"*@
+@*@page "/ProductPage"*@
+@page "/ProductPage/{id:int}"
 @inject ProductServices svc
 
 <div class="modal fade lug" id="myModal" role="dialog">
@@ -26,134 +26,15 @@
         <li><a href="#">Chamb for Business</a></li>
     </ul>
 </div>
-<div class="terms-conditions product-page">
-    <div class="terms-title">
-        <div class="container">
-            <div class="row">
-                <ol class="breadcrumb">
-                    <li><a href="#">Forntpage </a></li>
-                    <li class="active">Furniture</li>
-                    <li class="active">Sofa</li>
-                    <li><a href="#">All setup Sofa</a></li>
-                </ol>
-            </div>
-        </div>
-    </div>
-</div>
 <div class="product-page-main">
     <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <div class="prod-page-title">
-                    <h2>All setup Sofa</h2>
-                    <p>By <span>Dex Morgan Mobilya</span></p>
-                </div>
-            </div>
-        </div>
+        
         <div>
-            <ProductInfo></ProductInfo>
+            <ProductInfo image="@p.ImageAddress" productName="@p.Name" Price="@p.Price" Ratings="123"></ProductInfo>
         </div>
         </div>
     </div>
-        @*<div class="row">
-            <div class="col-md-2 col-sm-4">
-                <div class="left-profile-box-m prod-page">
-                    <div class="pro-img">
-                        <img src="images/150x150.png" alt="#" />
-                    </div>
-                    <div class="pof-text">
-                        <h3>Morgan Mobilya</h3>
-                        <div class="check-box"></div>
-                    </div>
-                    <a href="#">Visit store</a>
-                </div>
-            </div>
-
-                <div class="similar-box">
-                    <h2>Similiar products from Morgan Mobilya</h2>
-                    <div class="row cat-pd">
-                        <div class="col-md-6">
-                            <div class="small-box-c">
-                                <div class="small-img-b">
-                                    <img class="img-responsive" src="images/tr1.png" alt="#" />
-                                </div>
-                                <div class="dit-t clearfix">
-                                    <div class="left-ti">
-                                        <h4>Product</h4>
-                                        <p>By <span>Beko</span> under <span>Lights</span></p>
-                                    </div>
-                                    <a href="#" tabindex="0">$1220</a>
-                                </div>
-                                <div class="prod-btn">
-                                    <a href="#"><i class="fa fa-star" aria-hidden="true"></i> Save to wishlist</a>
-                                    <a href="#"><i class="fa fa-thumbs-up" aria-hidden="true"></i> Like this</a>
-                                    <p>23 likes</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="small-box-c">
-                                <div class="small-img-b">
-                                    <img class="img-responsive" src="images/tr2.png" alt="#" />
-                                </div>
-                                <div class="dit-t clearfix">
-                                    <div class="left-ti">
-                                        <h4>Product</h4>
-                                        <p>By <span>Beko</span> under <span>Chairs</span></p>
-                                    </div>
-                                    <a href="#" tabindex="0">$1220</a>
-                                </div>
-                                <div class="prod-btn">
-                                    <a href="#"><i class="fa fa-star" aria-hidden="true"></i> Save to wishlist</a>
-                                    <a href="#"><i class="fa fa-thumbs-up" aria-hidden="true"></i> Like this</a>
-                                    <p>23 likes</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row cat-pd">
-                        <div class="col-md-6">
-                            <div class="small-box-c">
-                                <div class="small-img-b">
-                                    <img class="img-responsive" src="images/tr3.png" alt="#" />
-                                </div>
-                                <div class="dit-t clearfix">
-                                    <div class="left-ti">
-                                        <h4>Product</h4>
-                                        <p>By <span>Beko</span> under <span>Lights</span></p>
-                                    </div>
-                                    <a href="#" tabindex="0">$1220</a>
-                                </div>
-                                <div class="prod-btn">
-                                    <a href="#"><i class="fa fa-star" aria-hidden="true"></i> Save to wishlist</a>
-                                    <a href="#"><i class="fa fa-thumbs-up" aria-hidden="true"></i> Like this</a>
-                                    <p>23 likes</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="small-box-c">
-                                <div class="small-img-b">
-                                    <img class="img-responsive" src="images/tr4.png" alt="#" />
-                                </div>
-                                <div class="dit-t clearfix">
-                                    <div class="left-ti">
-                                        <h4>Product</h4>
-                                        <p>By <span>Beko</span> under <span>Chairs</span></p>
-                                    </div>
-                                    <a href="#" tabindex="0">$1220</a>
-                                </div>
-                                <div class="prod-btn">
-                                    <a href="#"><i class="fa fa-star" aria-hidden="true"></i> Save to wishlist</a>
-                                    <a href="#"><i class="fa fa-thumbs-up" aria-hidden="true"></i> Like this</a>
-                                    <p>23 likes</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>*@
-
+       
 @*SHOW PRODUCTS*@
 
 <div class="text-center" style="margin-top: 50px">
@@ -163,31 +44,22 @@
     <div class="tab-content">
         <div class="tab-pane fade in active" id="tab1default">
             <div class="product-box-main row w-50">
-                @foreach (var p in Catalog.Products)
-                {
-
                     <ProductsForUser Category="@p.Category" image="@p.ImageAddress" ProductName="@p.Name" Price="@p.Price" Ratings="123"></ProductsForUser>
-                }
-
+                
             </div>
         </div>
         </div>
     </div>
 
         @code{
-            public string SellerName = "Usama Riasat";
-            public int ProductQuantity = 200;
-
-            //Get list of products
-            public string Category = "Furniture";
-            public string ProductName = "Silver Sofa";
-            public string Price = "799";
-            public string Ratings = "231";
-
-            private Catalog Catalog { get; set; } = new Catalog();
+            [Parameter]
+            public int id { get; set; }
+            Product p = new Product();
             protected async override Task OnInitializedAsync()
             {
-                Catalog = await svc.GetProduct();
+
+                p = await svc.GetProductDetail(id);
+                Console.WriteLine(p);
                 await base.OnInitializedAsync();
             }
         }

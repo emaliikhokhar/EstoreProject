@@ -1,39 +1,50 @@
 ﻿@page "/loginForm"
 @using Estore.Server.Models
 @inject SellerServices svc
-        <div class="container">
-                    <div class="card card-signin my-5">
-                        <div class="card-body  align-items-center">
-                            <br />
-                            <h2 class="card-title text-center mb-1">Sign In</h2>
-                            <EditForm Model="@seller" class="form-signin" OnSubmit="addProduct">
-                                <div class="form-label-group">
-                                    <label for="inputEmail">Email address</label>
-                                    <input type="text" id="inputEmail" @bind-value="seller.Email" class="form-control" placeholder="Email address" required autofocus>
-                                </div>
-                                <br />
-                                <div class="form-label-group  mb-1">
-                                    <label for="inputPassword">Password</label>
-                                    <input type="password" id="inputPassword" @bind-value="seller.Password" class="form-control" placeholder="Password" required>
-                                </div>
-                                <br />
-                                <button class="btn btn-lg btn-primary mb-1 btn-block text-uppercase" type="submit">Sign in</button>
-                                <hr class="my-4">
-
-                            </EditForm>
-                        </div>
-                    </div>
+@inject NavigationManager NavigationManager
+<div class="container">
+    <div class="card card-signin my-5">
+        <div class="card-body  align-items-center">
+            <br />
+            <h2 class="card-title text-center mb-1">Sign In</h2>
+            <EditForm Model="@seller" class="form-signin" OnSubmit="onClick">
+                <div class="form-label-group">
+                    <label for="inputEmail">Email address</label>
+                    <input type="text" id="inputEmail" @bind-value="seller.Email" class="form-control" placeholder="Email address" required autofocus>
                 </div>
+                <br />
+                <div class="form-label-group  mb-1">
+                    <label for="inputPassword">Password</label>
+                    <input type="password" id="inputPassword" @bind-value="seller.Password" class="form-control" placeholder="Password" required>
+                </div>
+                <br />
+                <button class="btn btn-lg btn-primary mb-1 btn-block text-uppercase" type="submit">Sign in</button>
+                <hr class="my-4">
+
+            </EditForm>
+        </div>
+    </div>
+</div>
 
 @code
-{
+{ Seller seller = new Seller();
 
-
-    Seller seller = new Seller();
-
-    private async Task addProduct()
+    private async Task onClick()
     {
         var status = await svc.isSeller(seller);
         Console.WriteLine($"here is from service {status}");
+        if (status.IsSuccessStatusCode)
+        {
+            Console.WriteLine($"response kkkk if {status.RequestMessage}");
+            NavigationManager.NavigateTo("/profile");
+            Console.WriteLine($"response kkkk if {status.RequestMessage}");
+        }
+        else
+        {
+            Console.WriteLine($"response kkkk  else  {status.RequestMessage}");
+            NavigationManager.NavigateTo("/loginForm");
+            StateHasChanged();
+            Console.WriteLine($"response kkkk  else  {status.RequestMessage}");
+        }
     }
-}
+    }

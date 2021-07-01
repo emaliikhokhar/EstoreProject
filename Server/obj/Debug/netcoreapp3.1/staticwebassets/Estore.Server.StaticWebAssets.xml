@@ -1,4 +1,4 @@
 ﻿<StaticWebAssets Version="1.0">
-  <ContentRoot BasePath="/" Path="E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Client\bin\Debug\netstandard2.1\wwwroot\" />
-  <ContentRoot BasePath="/" Path="E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\Client\wwwroot\" />
+  <ContentRoot BasePath="/" Path="E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\EstoreProject\Client\bin\Debug\netstandard2.1\wwwroot\" />
+  <ContentRoot BasePath="/" Path="E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\EstoreProject\Client\wwwroot\" />
 </StaticWebAssets>

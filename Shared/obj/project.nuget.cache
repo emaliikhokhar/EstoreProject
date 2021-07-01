@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O+uE9pTdQ6H0C73u0V09iOx7y6R6+c34CC5KDWHldF2HcB+9HtiREg3Dz4Mlc45374CxcGXXbex4NYg8PnTLsA==",
+  "dgSpecHash": "0f2f+Txu5B5tV9L92ZXsPxoa8Rg85GyB52rptYHSt/lAQvhht3cUPmq05fb6rp03DQABGgZzSnsnoyQSxIqisw==",
   "success": true,
-  "projectFilePath": "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\Shared\\Estore.Shared.csproj",
+  "projectFilePath": "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\EstoreProject\\Shared\\Estore.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP USER\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\HP USER\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

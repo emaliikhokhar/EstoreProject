@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xVIh2QWCO8Cf2rAL+DG4pzvuTqu39CfepQiMgXOmh2/NVoS5MR27ShYDjTYqO4kumEOvCI+HDk0c0WA6DbBkOQ==",
+  "dgSpecHash": "Ix+TO1U3Y2BOaXwnVjDvumayGXEgbfq1j7kx8CvSdn2l5rgy6mwfpO64RKoyz5y27tETbDdnjcTVSdaquVlIhA==",
   "success": true,
-  "projectFilePath": "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\Client\\Estore.Client.csproj",
+  "projectFilePath": "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\EstoreProject\\Client\\Estore.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP USER\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\HP USER\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.6\\microsoft.aspnetcore.authorization.3.1.6.nupkg.sha512",

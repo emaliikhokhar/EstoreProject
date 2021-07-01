@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\Client\\Estore.Client.csproj": {}
+    "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\EstoreProject\\Client\\Estore.Client.csproj": {}
   },
   "projects": {
-    "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\Client\\Estore.Client.csproj": {
+    "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\EstoreProject\\Client\\Estore.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\Client\\Estore.Client.csproj",
+        "projectUniqueName": "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\EstoreProject\\Client\\Estore.Client.csproj",
         "projectName": "Estore.Client",
-        "projectPath": "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\Client\\Estore.Client.csproj",
+        "projectPath": "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\EstoreProject\\Client\\Estore.Client.csproj",
         "packagesPath": "C:\\Users\\HP USER\\.nuget\\packages\\",
-        "outputPath": "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\Client\\obj\\",
+        "outputPath": "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\EstoreProject\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\Shared\\Estore.Shared.csproj": {
-                "projectPath": "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\Shared\\Estore.Shared.csproj"
+              "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\EstoreProject\\Shared\\Estore.Shared.csproj": {
+                "projectPath": "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\EstoreProject\\Shared\\Estore.Shared.csproj"
               }
             }
           }
@@ -100,14 +100,14 @@
         }
       }
     },
-    "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\Shared\\Estore.Shared.csproj": {
+    "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\EstoreProject\\Shared\\Estore.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\Shared\\Estore.Shared.csproj",
+        "projectUniqueName": "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\EstoreProject\\Shared\\Estore.Shared.csproj",
         "projectName": "Estore.Shared",
-        "projectPath": "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\Shared\\Estore.Shared.csproj",
+        "projectPath": "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\EstoreProject\\Shared\\Estore.Shared.csproj",
         "packagesPath": "C:\\Users\\HP USER\\.nuget\\packages\\",
-        "outputPath": "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\Shared\\obj\\",
+        "outputPath": "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\EstoreProject\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP USER\\AppData\\Roaming\\NuGet\\NuGet.Config",

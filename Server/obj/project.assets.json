@@ -2642,11 +2642,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\Server\\Estore.Server.csproj",
+      "projectUniqueName": "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\EstoreProject\\Server\\Estore.Server.csproj",
       "projectName": "Estore.Server",
-      "projectPath": "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\Server\\Estore.Server.csproj",
+      "projectPath": "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\EstoreProject\\Server\\Estore.Server.csproj",
       "packagesPath": "C:\\Users\\HP USER\\.nuget\\packages\\",
-      "outputPath": "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\Server\\obj\\",
+      "outputPath": "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\EstoreProject\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2663,11 +2663,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\Client\\Estore.Client.csproj": {
-              "projectPath": "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\Client\\Estore.Client.csproj"
+            "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\EstoreProject\\Client\\Estore.Client.csproj": {
+              "projectPath": "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\EstoreProject\\Client\\Estore.Client.csproj"
             },
-            "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\Shared\\Estore.Shared.csproj": {
-              "projectPath": "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\Shared\\Estore.Shared.csproj"
+            "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\EstoreProject\\Shared\\Estore.Shared.csproj": {
+              "projectPath": "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\EstoreProject\\Shared\\Estore.Shared.csproj"
             }
           }
         }
