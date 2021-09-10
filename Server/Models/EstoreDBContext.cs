@@ -6,6 +6,8 @@ using Microsoft.EntityFrameworkCore.Metadata;
 
 namespace Estore.Server.Models
 {
+
+
     public partial class EstoreDBContext : DbContext
     {
         public EstoreDBContext()
