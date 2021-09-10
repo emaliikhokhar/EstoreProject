@@ -90,7 +90,7 @@ using Estore.Client.Controls;
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\EstoreProject\Client\Pages\SignUpForm.razor"
+#line 3 "E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\EstoreProject\Client\Pages\SignUpForm.razor"
 using Estore.Server.Models;
 
 #line default
@@ -105,26 +105,37 @@ using Estore.Server.Models;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 38 "E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\EstoreProject\Client\Pages\SignUpForm.razor"
- 
-    public class Seller
-    {
-        public string Email { set; get; }
-        public string Name { get; set; }
-        public string Password { get; set; }
-        public string Address { set; get; }
-    }
-
+#line 43 "E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\EstoreProject\Client\Pages\SignUpForm.razor"
+  
     Seller seller = new Seller();
 
-    void FormSubmitted()
+    private async Task FormSubmitted()
     {
         Console.WriteLine("Email " + seller.Email + "Name " + seller.Name + "Password " + seller.Password + "Address " + seller.Address);
+
+
+        var status = await svc.AddSeller(seller);
+        if (status.IsSuccessStatusCode)
+        {
+            Console.WriteLine($"response kkkk if {status.RequestMessage}");
+            NavigationManager.NavigateTo("/loginForm");
+            Console.WriteLine($"response kkkk if {status.RequestMessage}");
+        }
+        else
+        {
+
+            Console.WriteLine($"response kkkk  else  {status.RequestMessage}");
+            NavigationManager.NavigateTo("/SignUpForm");
+            Console.WriteLine($"response kkkk  else  {status.RequestMessage}");
+        }
     }
+
 
 #line default
 #line hidden
 #nullable disable
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private NavigationManager NavigationManager { get; set; }
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private SellerServices svc { get; set; }
     }
 }
 #pragma warning restore 1591

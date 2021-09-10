@@ -42,6 +42,14 @@ namespace Estore.Client.Services
             return stringContent;
         }
 
+
+        public async Task<HttpResponseMessage> DeleteProduct(int id)
+        {
+
+            return await httpClient.DeleteAsync($"{baseUrl}api/Products/{id}");
+        }
+
+
         public async Task<Product> GetProductDetail(int id)
         {
 

@@ -1,53 +1,67 @@
 ﻿@page "/SignUpForm"
+
 @using Estore.Server.Models
+@inject SellerServices svc
+@inject NavigationManager NavigationManager
 
-    <div class="container">
-                <div class="card card-signin my-5">
-                    <div class="card-body  align-items-center">
-                        <br />
-                        <h2 class="card-title text-center mb-1">Register</h2>
-                        <EditForm Model="@seller" class="form-signin" OnSubmit="FormSubmitted">
-                            <div class="form-label-group">
-                                <label for="inputEmail">Full Name</label>
-                                <input type="text" id="fullName" @bind-value="seller.Name" class="form-control" placeholder="Full Name" required autofocus>
-                            </div>
-                            <br />
-                            <div class="form-label-group">
-                                <label for="inputEmail">Email address</label>
-                                <input type="email" id="inputEmail" @bind-value="seller.Email" class="form-control" placeholder="Email address" required autofocus>
-                            </div>
-                            <br />
-                            <div class="form-label-group  mb-1">
-                                <label for="inputPassword">Password</label>
-                                <input type="password" id="inputPassword" @bind-value="seller.Password" class="form-control" placeholder="Password" required>
-                            </div>
-                            <br />
-                            <div class="form-label-group">
-                                <label for="inputEmail">Address</label>
-                                <input type="text" id="address" @bind-value="seller.Address" class="form-control" placeholder="Address" required autofocus>
-                            </div>
-                            <br />
-                            <button class="btn btn-lg btn-primary mb-1 btn-block text-uppercase" type="submit">Register</button>
-                            <hr class="my-4">
 
-                        </EditForm>
-                    </div>
+
+<div class="container">
+    <div class="card card-signin my-5">
+        <div class="card-body  align-items-center">
+            <br />
+            <h2 class="card-title text-center mb-1">Register</h2>
+            <EditForm Model="@seller" class="form-signin" OnSubmit="FormSubmitted">
+                <div class="form-label-group">
+                    <label for="inputEmail">Full Name</label>
+                    <input type="text" id="fullName" @bind-value="seller.Name" class="form-control" placeholder="Full Name" required autofocus>
                 </div>
-            </div>
-@code
-{
-    public class Seller
-    {
-        public string Email { set; get; }
-        public string Name { get; set; }
-        public string Password { get; set; }
-        public string Address { set; get; }
-    }
+                <br />
+                <div class="form-label-group">
+                    <label for="inputEmail">Email address</label>
+                    <input type="email" id="inputEmail" @bind-value="seller.Email" class="form-control" placeholder="Email address" required autofocus>
+                </div>
+                <br />
+                <div class="form-label-group  mb-1">
+                    <label for="inputPassword">Password</label>
+                    <input type="password" id="inputPassword" @bind-value="seller.Password" class="form-control" placeholder="Password" required>
+                </div>
+                <br />
+                <div class="form-label-group">
+                    <label for="inputEmail">Address</label>
+                    <input type="text" id="address" @bind-value="seller.Address" class="form-control" placeholder="Address" required autofocus>
+                </div>
+                <br />
+                <button class="btn btn-lg btn-primary mb-1 btn-block text-uppercase" type="submit">Register</button>
+                <hr class="my-4">
 
+            </EditForm>
+        </div>
+    </div>
+</div>
+@code
+{ 
     Seller seller = new Seller();
 
-    void FormSubmitted()
+    private async Task FormSubmitted()
     {
         Console.WriteLine("Email " + seller.Email + "Name " + seller.Name + "Password " + seller.Password + "Address " + seller.Address);
+
+
+        var status = await svc.AddSeller(seller);
+        if (status.IsSuccessStatusCode)
+        {
+            Console.WriteLine($"response kkkk if {status.RequestMessage}");
+            NavigationManager.NavigateTo("/loginForm");
+            Console.WriteLine($"response kkkk if {status.RequestMessage}");
+        }
+        else
+        {
+
+            Console.WriteLine($"response kkkk  else  {status.RequestMessage}");
+            NavigationManager.NavigateTo("/SignUpForm");
+            Console.WriteLine($"response kkkk  else  {status.RequestMessage}");
+        }
     }
+
 }

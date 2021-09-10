@@ -90,12 +90,13 @@ using Estore.Client.Controls;
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\EstoreProject\Client\Pages\Index.razor"
+#line 4 "E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\EstoreProject\Client\Pages\Index.razor"
 using Estore.Server.Models;
 
 #line default
 #line hidden
 #nullable disable
+    [Microsoft.AspNetCore.Components.LayoutAttribute(typeof(LoginLayout))]
     [Microsoft.AspNetCore.Components.RouteAttribute("/")]
     public partial class Index : Microsoft.AspNetCore.Components.ComponentBase
     {
@@ -105,7 +106,7 @@ using Estore.Server.Models;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 316 "E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\EstoreProject\Client\Pages\Index.razor"
+#line 317 "E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\EstoreProject\Client\Pages\Index.razor"
               
             public string SellerName = "Usama Riasat";
             public int ProductQuantity = 200;

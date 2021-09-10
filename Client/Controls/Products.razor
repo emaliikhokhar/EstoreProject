@@ -1,4 +1,8 @@
-﻿<div class="col-md-4 col-sm-6">
+﻿
+@inject ProductServices svc;
+@inject NavigationManager NavigationManager
+@inject IJSRuntime JS
+<div class="col-md-4 col-sm-6">
     <div class="small-box-c">
         <div class="small-img-b">
             <a href="/"> <img src="@imageAddress(image)" alt="#" /></a>
@@ -12,34 +16,53 @@
         </div>
         <div class="prod-btn">
             <button type="submit" class="btn btn-warning">Update</button>
-            <button type="submit" class="btn btn-danger">Delete</button>
+            <input type="button" class="btn btn-danger" value="Delete" @onclick="()=>Delete(id)">
             <p>@Ratings likes</p>
         </div>
     </div>
 </div>
-@code {
-    [Parameter]
-    public string ProductName { set; get; }
+@code { [Parameter]
+            public string ProductName { set; get; }
 
-    [Parameter]
-    public string Category { set; get; }
+            [Parameter]
+            public string Category { set; get; }
 
-    [Parameter]
-    public string Price { set; get; }
+            [Parameter]
+            public string Price { set; get; }
 
-    [Parameter]
-    public int Ratings { set; get; }
+            [Parameter]
+            public int Ratings { set; get; }
 
-    [Parameter]
-    public int id { set; get; }
+            [Parameter]
+            public int id { set; get; }
 
-    [Parameter]
-    public string image { get; set; }
+            [Parameter]
+            public string image { get; set; }
 
-    string imageAddress(string image)
-    {
-        string temp = "images/" + image + ".png";
-        return temp;
-    }
+            string imageAddress(string image)
+            {
+                string temp = "images/" + image + ".png";
+                return temp;
+            }
 
-    }
+
+
+            private async Task Delete(int id)
+            {
+                var status = await svc.DeleteProduct(id);
+                if (status.IsSuccessStatusCode)
+                {
+                  
+
+                    NavigationManager.NavigateTo("/profile");
+
+
+                }
+                else
+                {
+
+                    NavigationManager.NavigateTo("/loginForm");
+
+                }
+            }
+}

@@ -104,37 +104,58 @@ using Estore.Client.Controls;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 20 "E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\EstoreProject\Client\Controls\Products.razor"
-       
-    [Parameter]
-    public string ProductName { set; get; }
+#line 24 "E:\BIT\Semester-VI\EAD\Semester Project\EstoreProject\EstoreProject\Client\Controls\Products.razor"
+        [Parameter]
+            public string ProductName { set; get; }
 
-    [Parameter]
-    public string Category { set; get; }
+            [Parameter]
+            public string Category { set; get; }
 
-    [Parameter]
-    public string Price { set; get; }
+            [Parameter]
+            public string Price { set; get; }
 
-    [Parameter]
-    public int Ratings { set; get; }
+            [Parameter]
+            public int Ratings { set; get; }
 
-    [Parameter]
-    public int id { set; get; }
+            [Parameter]
+            public int id { set; get; }
 
-    [Parameter]
-    public string image { get; set; }
+            [Parameter]
+            public string image { get; set; }
 
-    string imageAddress(string image)
-    {
-        string temp = "images/" + image + ".png";
-        return temp;
-    }
+            string imageAddress(string image)
+            {
+                string temp = "images/" + image + ".png";
+                return temp;
+            }
 
-    
+
+
+            private async Task Delete(int id)
+            {
+                var status = await svc.DeleteProduct(id);
+                if (status.IsSuccessStatusCode)
+                {
+                  
+
+                    NavigationManager.NavigateTo("/profile");
+
+
+                }
+                else
+                {
+
+                    NavigationManager.NavigateTo("/loginForm");
+
+                }
+            }
 
 #line default
 #line hidden
 #nullable disable
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private IJSRuntime JS { get; set; }
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private NavigationManager NavigationManager { get; set; }
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private ProductServices svc { get; set; }
     }
 }
 #pragma warning restore 1591

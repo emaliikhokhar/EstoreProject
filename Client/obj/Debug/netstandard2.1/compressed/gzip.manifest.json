@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\HJWPEhvqpqMrY2zSON64QAQjI7uThPiNnmFIx55Y2_M=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\QI44lFU4h_S-8YYzJjsL0j53Bpci4xJMZ0tf7HpH_fE=.hash",
       "Source": "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\EstoreProject\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Estore.Client.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Estore.Client.dll.gz"
     },
@@ -194,6 +194,11 @@
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\9UNtwDMFW86VtnTtJFk9xcc1hCnXFGXccFv3SkbgYy0=.hash",
       "Source": "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\EstoreProject\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Logging.Abstractions.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\LqwA2Rpm96Ualk0IhLZar87kfRCyKHzHTeTt2jYhm7M=.hash",
+      "Source": "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\EstoreProject\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.JSInterop.dll",
+      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\ckNMFfD9SY1IYyqJxPTnW-igwZ8V_au7Qxri7B9y_xI=.hash",
@@ -506,17 +511,12 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.FileProviders.Abstractions.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\LqwA2Rpm96Ualk0IhLZar87kfRCyKHzHTeTt2jYhm7M=.hash",
-      "Source": "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\EstoreProject\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.JSInterop.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.dll.gz"
-    },
-    {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\czNf3btAeBW-vvID5LAfgcsNZ_GM3ssVuPaMflcg0rs=.hash",
       "Source": "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\EstoreProject\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.JSInterop.WebAssembly.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\ZfhN2q7yur2ev4lxYQaiwjnJgwMjPJ1Z10j52sQK114=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Yq2VcFHSJ4cvieWUwCvDHyWbnKUfl7d5IGsKhvrBSQk=.hash",
       "Source": "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\EstoreProject\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Estore.Client.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Estore.Client.pdb.gz"
     },
@@ -551,7 +551,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\LDPvnn5trvhiF9lEalQ8I-DwwVUbqFZmeoMlQQkNe6A=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\OYUfbiCO__wKrylicU4NT7vW8wBCnwx21Ad2GPI07BI=.hash",
       "Source": "E:\\BIT\\Semester-VI\\EAD\\Semester Project\\EstoreProject\\EstoreProject\\Client\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.gz"
     }

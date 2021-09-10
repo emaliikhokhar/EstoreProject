@@ -43,15 +43,20 @@ namespace Estore.Server.Controllers
             await DB.SaveChangesAsync();
         }
 
-        [HttpDelete]
-        [Route("DeleteProduct")]
-        public void DeleteProduct(Product p1)
+        // DELETE: api/Products/5
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> DeleteProduct(int id)
         {
-            var x = (from y in DB.Products
-                     where y.Name == p1.Name
-                     select y).FirstOrDefault();
-            DB.Remove(x);
-            DB.SaveChangesAsync();
+            var product = await DB.Products.FindAsync(id);
+            if (product == null)
+            {
+                return NotFound();
+            }
+
+            DB.Products.Remove(product);
+            await DB.SaveChangesAsync();
+
+            return NoContent();
         }
 
         [HttpPut]

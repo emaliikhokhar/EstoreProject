@@ -25,6 +25,19 @@ namespace Estore.Server.Controllers
             return email;
         }
 
+        //[HttpPost]
+        //public async Task<ActionResult<Seller>> PostSeller(Seller seller)
+        //{
+        //    var list = _context.Sellers.Where(l => l.Email == seller.Email).FirstOrDefault();
+        //    if (list == null)
+        //    {
+        //        _context.Sellers.Add(seller);
+        //        await _context.SaveChangesAsync();
+        //        return CreatedAtAction("GetSeller", new { id = seller.Sid }, seller);
+        //    }
+        //    return NoContent();
+        //}
+
         [HttpPost]
         [Route("PostSeller")]
         public async void PostSeller(Seller sellers)
@@ -33,22 +46,38 @@ namespace Estore.Server.Controllers
             await DB.SaveChangesAsync();
         }
 
+        //[HttpPost]
+        //[Route("login")]
+        //public async Task<ActionResult<Login>> Login(Login ll)
+        //{
+        //    var list = _context.Sellers.Where(l => l.Email == ll.email && l.Password == ll.password).FirstOrDefault();
+        //    if (list != null)
+        //    {
+        //        string n = list.Shopname;
+        //        HttpContext.Session.SetString("email", ll.email);
+        //        HttpContext.Session.SetString("shop", n);
+        //        return NoContent();
+        //    }
 
+        //    return BadRequest();
+
+
+        //}
 
         [HttpPost]
         [Route("isSeller")]
-        public bool isSeller(Seller sellers)
+        public async Task<ActionResult<Seller>> isSeller(Seller sellers)
         {
             var data = from s in DB.Sellers
                        where s.Email == sellers.Email && sellers.Password == s.Password
                        select s;
             if (data.Any())
             {
-                return true;
+                return NoContent(); 
             }
             else
             {
-                return false;
+                return BadRequest(); 
             }
         }
 

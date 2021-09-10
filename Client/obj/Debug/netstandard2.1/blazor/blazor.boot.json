@@ -6,7 +6,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "Estore.Client.dll": "sha256-HJWPEhvqpqMrY2zSON64QAQjI7uThPiNnmFIx55Y2+M=",
+      "Estore.Client.dll": "sha256-QI44lFU4h+S\/8YYzJjsL0j53Bpci4xJMZ0tf7HpH+fE=",
       "System.Net.Http.Json.dll": "sha256-99dseBOagY3mzu5Y8Eqm8gRI+o8QbbCp7R2Ew9bQ+5E=",
       "System.Buffers.dll": "sha256-ZxXy75PYbzJxNfAc\/SAP1nUYm4gt1jSaOpFnBb9m85M=",
       "mscorlib.dll": "sha256-BaZPMj95+YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=",
@@ -45,6 +45,7 @@
       "System.ComponentModel.DataAnnotations.dll": "sha256-LIfCYwg+PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=",
       "Microsoft.AspNetCore.Components.dll": "sha256-PEg9ghiKSWBTX0jq8pFDvv2Yvw92Y8W0ELtWrSE4fhA=",
       "Microsoft.Extensions.Logging.Abstractions.dll": "sha256-9UNtwDMFW86VtnTtJFk9xcc1hCnXFGXccFv3SkbgYy0=",
+      "Microsoft.JSInterop.dll": "sha256-LqwA2Rpm96Ualk0IhLZar87kfRCyKHzHTeTt2jYhm7M=",
       "Estore.Shared.dll": "sha256-ckNMFfD9SY1IYyqJxPTnW\/igwZ8V+au7Qxri7B9y+xI=",
       "Microsoft.EntityFrameworkCore.Relational.dll": "sha256-Womeaxl4YRRVXztK9uVYcDrhsPRDCREXgyLmpuaVIhY=",
       "System.Diagnostics.DiagnosticSource.dll": "sha256-sbc04n9Z3XKC7LqBYyOyNFlslAcoXtmk\/7Ez6zn0BjA=",
@@ -107,11 +108,10 @@
       "Microsoft.Extensions.FileProviders.Physical.dll": "sha256-tY1dlliVr+yGzBF7d0z\/iaulZfBJNaSrCKDD0RP2cc8=",
       "Microsoft.Extensions.FileSystemGlobbing.dll": "sha256-r8LuqDQgcB\/c3E48xHqsAY1eRZB1ZtuqZF6nlufn7kg=",
       "Microsoft.Extensions.FileProviders.Abstractions.dll": "sha256-DrtNiKIMjfSOdamH5Bs5zHmjFADgNiwrY5tRgTm6XuI=",
-      "Microsoft.JSInterop.dll": "sha256-LqwA2Rpm96Ualk0IhLZar87kfRCyKHzHTeTt2jYhm7M=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-czNf3btAeBW\/vvID5LAfgcsNZ+GM3ssVuPaMflcg0rs="
     },
     "pdb": {
-      "Estore.Client.pdb": "sha256-ZfhN2q7yur2ev4lxYQaiwjnJgwMjPJ1Z10j52sQK114=",
+      "Estore.Client.pdb": "sha256-Yq2VcFHSJ4cvieWUwCvDHyWbnKUfl7d5IGsKhvrBSQk=",
       "Estore.Shared.pdb": "sha256-BGMywWnPdg8dn2e4E5SPwbnvisaqir4Aogh0g+oZliw=",
       "Microsoft.Data.SqlClient.pdb": "sha256-6nKNVfiNR4inUtGezUcm6CbVuC9gID73Ouz6OV+k470="
     },

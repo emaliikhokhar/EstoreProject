@@ -26,7 +26,7 @@ namespace Estore.Client.Services
         public async Task<HttpResponseMessage> AddSeller(Seller p)
         {
             Console.WriteLine(p.Name);
-            return await httpClient.PostAsync($"{baseUrl}api/Sellers/isSeller", getStringContentFromObject(p));
+            return await httpClient.PostAsync($"{baseUrl}api/Sellers/postseller", getStringContentFromObject(p));
 
         }
 
